@@ -1,4 +1,4 @@
-# Hi, I'm Phillip
+# Hi, I'm Phillip 😄
 
 [<img align="left" alt="Phillip | LinkedIn" width="22px" src="./linkedin.svg" />][linkedin]
 
@@ -12,7 +12,13 @@
 
 [instagram]: https://www.instagram.com/phucnguyen2901
 
-[<img align="left" alt="Phillip | Gmail" width="22px" src="./gmail.svg" />][gmail]
+<br/>
 
-[gmail]: https://mail.google.com/mail/u/?authuser=phucnguyen290198@gmail.com
+## I am a graduate student from University of Nebraska -- Omaha
+
+Hi, my name is Phillip Nguyen, majoring in Computational Mathematics in UNO, and a full-time software developer wanna be! I aspire to dedicate my work into every project as diligently and smartly as I can. I am currently searching for SWE roles for any tech companies.
+
+- Background: I have a Bachelor's Degree in : and minor in Business in University of Nebraska -- Lincoln.
+- Hobbies: Sports, especially ⚽ 🏀 🏸 🎾
+
 
