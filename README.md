@@ -18,7 +18,7 @@
 
 Hi, my name is Phillip Nguyen, majoring in Computational Mathematics in UNO, and a full-time software developer wanna be! I aspire to dedicate my work into every project as diligently and smartly as I can. I am currently searching for SWE roles for any tech companies.
 
-- Background: I have a Bachelor's Degree in : and minor in Business in University of Nebraska -- Lincoln.
+- Background: I have a Bachelor's Degree in Mathematics and minor in Business in University of Nebraska -- Lincoln.
 - Hobbies: Sports, especially ⚽ 🏀 🏸 🎾
 
 
